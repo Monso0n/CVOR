@@ -1,6 +1,7 @@
 # CVOR (Computer Vision Object Recognition)
 **CVOR** is a **Python** application which highlights select objects (such as cats, smiles, and faces) from image files. The graphical user interface is built using **Tkinter** toolkit, and the object recognition is done by the amazing and capable **OpenCV** library.
 ---
+![CVOR](https://i.imgur.com/Cc7cejs.png)
 
 # How to run CVOR
 To run CVOR, the following must be installed: 
